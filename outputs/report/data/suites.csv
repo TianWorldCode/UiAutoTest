@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 28 15:58:27 CST 2022","Thu Jul 28 15:58:38 CST 2022","10704","scripts.login_cases","test_login","TestLogin","","","test_login[data2]",""
+"passed","Thu Jul 28 15:57:56 CST 2022","Thu Jul 28 15:58:09 CST 2022","12419","scripts.login_cases","test_login","TestLogin","","","test_login[data0]",""
+"passed","Thu Jul 28 15:58:12 CST 2022","Thu Jul 28 15:58:24 CST 2022","11070","scripts.login_cases","test_login","TestLogin","","","test_login[data1]",""
+"passed","Thu Jul 28 15:57:40 CST 2022","Thu Jul 28 15:57:48 CST 2022","7511","scripts.add_uesr_case","test_add_uesr","TestAddUser","","","test_add_user_success[data0]",""
